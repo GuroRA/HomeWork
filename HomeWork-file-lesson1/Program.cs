@@ -16,7 +16,7 @@ namespace HomeWork_file_lesson1
             Console.WriteLine(Math.Round(Math.E, 1));
 
 
-            //Вывести на экран числа 50 и 10 одно под другим.
+            //Вывести на экран числа 50 и 10 одно под другим
             Console.WriteLine("\nЗадание 2");
             Console.WriteLine(50);
             Console.WriteLine(10);

@@ -23,7 +23,7 @@ namespace HomeWork_file_lesson1
 
 
 
-            //Составить программу вывода на экран «столбиком» четырех любых чисел.
+            //Составить программу вывода на экран «столбиком» четырех любых чисел
             Console.WriteLine("\nЗадание 3");
             Console.WriteLine(25);
             Console.WriteLine(78);
